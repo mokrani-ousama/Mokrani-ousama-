@@ -1,0 +1,6 @@
+{
+  "name": "DIAWISS",
+  "description": "Boutique en ligne DIAWISS — Béjaïa 06 : Tenues de soutenance universitaire, chapeaux, écharpes et jackets personnalisés en Algérie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
